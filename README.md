@@ -3,8 +3,7 @@
 Графический калькулятор, написанный на C++ с использованием библиотеки [Raylib](https://www.raylib.com/).  
 Работает под Windows. Реализован интерфейс с кнопками, поддержка операций и удобный вывод результата.
 
-![screenshot](<img width="400" height="628" alt="изображение" src="https://github.com/user-attachments/assets/fdb034c8-fc14-4633-92a8-4a3e746a3321" />
-) 
+<img width="395" height="627" alt="изображение" src="https://github.com/user-attachments/assets/afcb9922-8bdc-46ce-a5ec-01a134acd19d" />
 
 
 ---
