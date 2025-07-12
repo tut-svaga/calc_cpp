@@ -28,3 +28,6 @@
    pacman -Syu
    pacman -Su
    pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-raylib
+4. Запустить командой:
+   g++ Source.cpp -o calc.exe -lraylib -lwinmm -lgdi32 -lopengl32
+
